@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Segundo parcial</string>
+    <string-array name="spinner_estrato">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="spinner_nivel">
+        <item>BACHILLER</item>
+        <item>PREGRADO</item>
+        <item>MAESTRIA</item>
+        <item>DOCTORADO</item>
+    </string-array>
+</resources>
